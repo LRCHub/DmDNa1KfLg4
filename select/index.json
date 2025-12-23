@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "無意味になる夜",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T07:02:21.929647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "無意味になる夜",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_無意味になる夜_UVERworld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無意味になる夜",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_無意味になる夜_UVERworld.txt"
+    }
+  ]
+}
